@@ -9,4 +9,4 @@ the hyperparameters, especially the ratio of content and style weight in the los
 performance. We will also discuss the usage of this model in practice, attempting to determine the
 empirical conditions under which the method works and does not work.
 
-The images used in the experiment is available in Gallery.
+The images used in the experiment are available in Gallery.
