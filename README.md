@@ -1,4 +1,4 @@
-# 5242 Fianl Project (Project 4: the Neural Style Transfer)
+# 5242 Final Project (Project 4: the Neural Style Transfer)
 
 This project studies the application of Neural Style Transfer, focusing on the synthesis of a style
 from one image and a content of another image. A pre-trained VGG network is utilized to
